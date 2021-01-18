@@ -25,19 +25,6 @@
 
 .. toctree::
    :maxdepth: 2
-   :caption: Private Cloud Labs
-   :hidden:
-
-   03-privatecloud/dayinlife/dayinlife
-   03-privatecloud/prismops/prismops_capacity_lab/prismops_capacity_lab
-   03-privatecloud/prismops/prismops_rightsize_lab/prismops_rightsize_lab
-   03-privatecloud/security/security
-   03-privatecloud/files/files
-   03-privatecloud/flow_secure_fiesta/flow_secure_fiesta
-   03-privatecloud/beam_cost_governance/beam_cost_governance
-
-.. toctree::
-   :maxdepth: 2
    :caption: Files Labs
    :hidden:
 
@@ -151,15 +138,6 @@
    08-calm/calm_iaas/calm_iaas
    08-calm/calm_karbon_cicd/calm_karbon_cicd
    08-calm/flow_assign_categories_in_calm/flow_assign_categories_in_calm
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Splunk auf AHV Labs
-   :hidden:
-
-   09-splunk/objects_splunk/objects_splunk
-   09-splunk/setup_splunk/setup_splunk
-   09-splunk/generate_logs/generate_logs
 
 .. toctree::
    :maxdepth: 2
