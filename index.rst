@@ -5,7 +5,6 @@
    :caption: Hosted PoC Infos
    :hidden:
 
-   01-hpoc/ansprechpartner/ansprechpartner
    01-hpoc/clusteraccess/clusteraccess
    01-hpoc/clusterdetails/clusterdetails
 

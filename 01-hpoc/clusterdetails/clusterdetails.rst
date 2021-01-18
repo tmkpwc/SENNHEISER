@@ -27,21 +27,21 @@ Infrastruktur IPs
      - Hypervisors
      - IPMI
    * - **Position A**
-     - 10.38.206.29
-     - 10.38.206.25
-     - 10.38.206.33
+     - 10.38.216.29
+     - 10.38.216.25
+     - 10.38.216.33
    * - **Position B**
-     - 10.38.206.30
-     - 10.38.206.26
-     - 10.38.206.34
+     - 10.38.216.30
+     - 10.38.216.26
+     - 10.38.216.34
    * - **Position C**
-     - 10.38.206.31
-     - 10.38.206.27
-     - 10.38.206.35
+     - 10.38.216.31
+     - 10.38.216.27
+     - 10.38.216.35
    * - **Position D**
-     - 10.38.206.32
-     - 10.38.206.28
-     - 10.38.206.36
+     - 10.38.216.32
+     - 10.38.216.28
+     - 10.38.216.36
 
 
 .. list-table::
@@ -51,13 +51,13 @@ Infrastruktur IPs
   * - Services
     - IP-Adressen
   * - **Cluster virtual IP**
-    - 10.38.206.37
+    - 10.38.216.37
   * - **iSCSI Data Services IP**
-    - 10.38.206.38
+    - 10.38.216.38
   * - **Prism Central**
-    - 10.38.206.39
+    - 10.38.216.39
   * - **Active Directory**
-    - 10.38.206.41
+    - 10.38.216.41
 
 
 Zugangsdaten
@@ -77,13 +77,13 @@ Die folgende Tabelle führt die standardmäßig hinterlegten Zugangsdaten für d
     - ADMIN
   * - **Prism Element Web**
     - admin
-    - nx2Tech630!
+    - nx2Tech209!
   * - **Prism Element SSH**
     - nutanix
-    - nx2Tech630!
+    - nx2Tech209!
   * - **Prism Central Web**
     - admin
-    - nx2Tech630!
+    - nx2Tech209!
   * - **Prism Central SSH**
     - nutanix
     - nutanix/4u
@@ -142,23 +142,23 @@ Die folgenden virtuellen Netzwerke wurden wie folgt vorkonfiguriert:
      - 0
      - 2063
    * - **Netzwerk IP Adresse**
-     - 10.38.206.0
-     - 10.38.206.128
+     - 10.38.216.0
+     - 10.38.216.128
    * - **Netzmaske**
      - 255.255.255.128 (/25)
      - 255.255.255.128 (/25)
    * - **Default Gateway**
-     - 10.38.206.1
-     - 10.38.206.129
+     - 10.38.216.1
+     - 10.38.216.129
    * - **IP Address Management (IPAM)**
      - Aktiviert
      - Aktiviert
    * - **DHCP Pool**
-     - 10.38.206.50  - 125
-     - 10.38.206.132 - 253
+     - 10.38.216.50  - 125
+     - 10.38.216.132 - 253
    * - **Domain**
      - NTNXLAB.local
      - NTNXLAB.local
    * - **DNS**
-     - 10.38.206.41 (DC VM)
-     - 10.38.206.41 (DC VM)
+     - 10.38.216.41 (DC VM)
+     - 10.38.216.41 (DC VM)
